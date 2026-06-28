@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Prompts de Vendas",
+  "description": "Gerador de prompts mestre de alta conversão para clones de IA em vendas, especializado no setor imobiliário e adaptado para cenários reais como Florianópolis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
